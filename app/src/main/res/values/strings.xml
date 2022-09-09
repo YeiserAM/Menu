@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Menu</string>
+    <string name="raiz">Raiz Cuadrada</string>
+    <string name="tresNumeros">3 Numeros</string>
+    <string name="diezNumeros">10 Numeros</string>
+    <string name="calcu">Calculadora</string>
+    <string name="menuPrincipal">Volver</string>
+
+</resources>
